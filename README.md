@@ -39,6 +39,15 @@ C++ осваиваю постепенно: читаю документацию, 
 
 ---
 
+## 🏆 Достижения
+
+![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matvey2222222222&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ## 🎯 Ближайшие планы
 
 - Продолжать развиваться в разработке десктопных приложений на Python, улучшать архитектуру и интерфейсы.
