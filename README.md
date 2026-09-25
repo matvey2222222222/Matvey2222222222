@@ -27,12 +27,21 @@ C++ осваиваю постепенно: читаю документацию, 
 
 ---
 
+## 🧰 Какие технологии я использую?
+
+![Eclipse Adoptium](https://img.shields.io/badge/Eclipse_Adoptium-2C2255?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
 ## 🛠 Чем занимаюсь сейчас
 
 - **Десктопные приложения на Python** — утилиты для офисных задач, автоматизация работы с файлами, небольшие бизнес-приложения с графическим интерфейсом.
 - **Мини-игры на Python** — разрабатываю небольшие аркады и головоломки, используя Pygame или другие библиотеки.
 - **Веб-игры на HTML/CSS** — создаю браузерные игры с интерфейсом на HTML и стилями CSS.
-- **Java** — использую для запуска игр, например для создания системы запуска Minecraft в своём лаунчере.
+- **Java** — использую для запуска игр, например для создания системы запуска Minecraft в лаунчере.
 - **Фронтенд на HTML/CSS** — делаю веб-обёртки для своих десктопных проектов и интерфейсы для веб-игр.
 
 Помимо классической разработки, меня привлекает **искусственный интеллект**. Я изучаю машинное обучение на Python, экспериментирую с библиотеками, но отношусь к этому как к дополнительному инструменту. Моя философия: ИИ хорош там, где он действительно нужен, но не стоит заменять им простые и надёжные решения. Поэтому я продолжаю писать и обычные программы, и те, где ИИ может дать реальную пользу (например, предсказательная аналитика или обработка текста).
@@ -42,9 +51,9 @@ C++ осваиваю постепенно: читаю документацию, 
 ## 🏆 Достижения
 
 ![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-FFD700?style=for-the-badge&logo=lightning&logoColor=black)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=matvey2222222222&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
