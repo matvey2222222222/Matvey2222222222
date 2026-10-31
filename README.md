@@ -22,8 +22,11 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 C++ осваиваю постепенно: читаю документацию, решаю задачи, пробую писать небольшие консольные программы. В перспективе хочу использовать его для высоконагруженных модулей, где важна производительность.
+
+Rust начал изучать недавно — скачал, читаю материалы, пробую базовые примеры. Привлёк внимание своей безопасностью работы с памятью и производительностью.
 
 ---
 
